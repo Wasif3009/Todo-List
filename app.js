@@ -9,6 +9,8 @@ addBtn.addEventListener("click", function () {
 
   if (task === "") {
     alert("Enter A Task");
+    // Exits the function early Using Return Because If code Encountered return Lines Below the return does not run for this specific function
+    return;
   }
 
   //CREATING SPAN AND ADDING INPUT TEXT

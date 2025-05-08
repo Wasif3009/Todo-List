@@ -30,7 +30,7 @@ body {
 
 .h1 {
   font-size: 3rem;
-  color: #e0e0e0;
+  color: #fff;
 }
 
 .input {
@@ -49,7 +49,7 @@ body {
 
 .h2 {
   font-size: 1.8rem;
-  color: #e0e0e0;
+  color: #fff;
 }
 
 .input-container {
@@ -99,7 +99,7 @@ body {
 
 .span {
   font-size: 2rem;
-  color: #e0e0e0;
+  color: #fff;
   display: flex;
   justify-content: space-between;
   align-items: center;
